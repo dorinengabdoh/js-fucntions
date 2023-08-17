@@ -1,3 +1,4 @@
+// calculateSupply
 let age=1;
 let Q=2;
 function calculateSupply(age, Q){

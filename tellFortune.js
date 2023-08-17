@@ -1,3 +1,4 @@
+// tellFortune
 let nc=8;
 let np=3;
 let place="yaounde";
